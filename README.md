@@ -45,10 +45,5 @@
 ### 📊 Minhas estatísticas
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nem0w&show_icons=true&hide_title=true&bg_color=1B2E4A&title_color=C98A2B&text_color=DCE3ED&icon_color=C98A2B&border_color=C98A2B" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nem0w&layout=compact&hide_title=true&bg_color=1B2E4A&title_color=C98A2B&text_color=DCE3ED&border_color=C98A2B" />
-</p>
-
-<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nem0w&background=1B2E4A&stroke=C98A2B&ring=C98A2B&fire=C98A2B&currStreakLabel=DCE3ED&sideLabels=DCE3ED&dates=8A9BB5" />
 </p>
