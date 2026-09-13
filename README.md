@@ -8,7 +8,7 @@
 
 <h1 align="center">Opa, tudo bem? Vitor Carvalho aqui! 👋</h1>
 
-<h3 align="center">Estudante de Software Engineering | Aspiring Full-Stack Developer</h3>
+<h3 align="center">Estudante de Software Engineering | Criador do nem0w</h3>
 
 <p align="center">
 📍 Munique, Alemanha &nbsp;|&nbsp; 🎯 Buscando oportunidades de Werkstudent / estágio / júnior
@@ -20,7 +20,7 @@
 
 <p align="center">
 <a href="mailto:vitorcarvalhocarniato@gmail.com"><img src="https://img.shields.io/badge/Email-1B2E4A?style=for-the-badge&logo=gmail&logoColor=C98A2B" /></a>
-<a href="https://linkedin.com/in/vitor-carvalho-medeiros"><img src="https://img.shields.io/badge/LinkedIn-1B2E4A?style=for-the-badge&logo=linkedin&logoColor=C98A2B" /></a>
+<a href="https://www.linkedin.com/in/vitor-carvalho-de-medeiros-7a47a6180/"><img src="https://img.shields.io/badge/LinkedIn-1B2E4A?style=for-the-badge&logo=linkedin&logoColor=C98A2B" /></a>
 <a href="https://vitorcarvalho.dev"><img src="https://img.shields.io/badge/Portfolio-1B2E4A?style=for-the-badge&logo=googlechrome&logoColor=C98A2B" /></a>
 </p>
 
@@ -29,12 +29,35 @@
 ### 📋 Sobre mim
 
 - 🎓 Cursando Bacharelado em Computer Software Engineering na **IU Internationale Hochschule**
-- 🍦 Trabalho como Atendente numa gelateria na Alemanha, e foi observando o controle de estoque manual de perto que decidi construir minha própria solução
-- 🚀 Meu projeto principal, o **Gelato Stock**, é um sistema multi-tenant de controle de estoque em produção, do banco de dados ao deploy
-- 🌱 Aprendendo continuamente: Python, Next.js, React, TypeScript, PostgreSQL, e evoluindo para SQL avançado, APIs REST e engenharia backend
+- 💻 Desenvolvendo o **nem0w**, meu aplicativo Windows para coordenar agentes de programação com IA
+- 🚀 No **nem0w**, reúno coordenação de tarefas, agentes, worktrees Git e revisão de entregas em uma interface desktop
+- 🌱 Aprendendo continuamente: C#, .NET, WPF, Python e tecnologias web, com foco em arquitetura, testes e integração de ferramentas
 - 🗣️ Idiomas: Português (nativo), Inglês (avançado), Alemão (intermediário), Italiano (intermediário)
 
+### 🖥️ Meu projeto principal — nem0w
+
+**Um espaço de trabalho Windows para coordenar agentes de programação com IA.**
+
+Desenvolvido em **C#, .NET 8 e WPF**, o nem0w organiza tarefas e agentes em etapas, separa alterações em worktrees Git e prepara a integração para revisão antes da entrega.
+
+[![Interface real do nem0w com orquestrador central e painéis dos agentes](nem0w-workspace.png)](nem0w-workspace.png)
+
+- 🤖 **Coordenação de agentes:** organização de tarefas e acompanhamento de fluxos com Codex e Claude.
+- 🌿 **Trabalho isolado:** branches e worktrees Git para separar as alterações dos agentes.
+- 🖥️ **Área de trabalho integrada:** painéis de agentes, terminais, arquivos e prévia de projetos.
+- 🔎 **Revisão de entregas:** execução dos scripts de build e testes configurados no projeto, com aprovação antes da integração na branch principal.
+
+**[Conheça o projeto →](NEM0W.md)**
+
+<sub>Projeto pessoal em desenvolvimento. O código-fonte do aplicativo permanece privado; esta apresentação compartilha a proposta e uma captura real da interface.</sub>
+
 ### 🛠️ Tecnologias e ferramentas
+
+**Desktop**
+
+![C# e .NET](https://skillicons.dev/icons?i=cs,dotnet)
+
+WPF · XAML · WebView2
 
 **Frontend**
 
@@ -48,15 +71,16 @@
 
 ![](https://skillicons.dev/icons?i=git,github,vercel,vscode)
 
-### 📌 Projetos em destaque
+### 📌 Outros projetos
 
 - 🍨 **[Gelato Stock](https://github.com/nem0w/gelato-stock-showcase)** — sistema multi-tenant de controle de estoque para sorveterias, em produção. Next.js, React, TypeScript, PostgreSQL (Neon), Prisma ORM, Better Auth.
 - 💻 **[Portfólio pessoal](https://vitorcarvalho.dev)** — site pessoal construído do zero em HTML, CSS e JavaScript pra documentar meus projetos e aprendizado.
-- 🎮 **GameTracker** — aplicação de linha de comando em Python pra organizar e gerenciar jogos, com persistência em JSON.
+- 🎮 **[GameTracker](https://github.com/nem0w/GameTracker)** — aplicação de linha de comando em Python pra organizar e gerenciar jogos, com persistência em JSON.
 
 ### 🌱 O que estou aprendendo agora
 
-- ✅ Testes automatizados (Vitest / pytest), pra cobrir as funções principais do Gelato Stock
+- 🧪 Testes automatizados e validação de entregas nos meus projetos
+- 🖥️ Arquitetura desktop com C#/.NET e coordenação de agentes no nem0w
 - ✅ Estruturas de dados e algoritmos, praticando pra entrevista técnica
 - ⏳ Docker, pra padronizar o ambiente de desenvolvimento dos meus projetos
 - ⏳ CI/CD básico com GitHub Actions
